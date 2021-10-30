@@ -1,0 +1,44 @@
+
+/*Шрифт Varela*/
+
+@font-face {
+  font-family: 'TrebuchetMS-Bold';
+  src:  url('trebucbd.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TrebuchetMS-Regular';
+  src:  url('trebuc_0.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'DINPro-Medium';
+  src:  url('DINPro-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GothamPro-Medium';
+  src:  url('GothamPro-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeoSansPro-Medium';
+  src:  url('NeoSansPro-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.dfff{
+  
+color:#7e0c0c;
+color:#484e58;
+}
